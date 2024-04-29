@@ -1,0 +1,50 @@
+-------------------------------------------DATOS DEL ESTUDIANTE-------------------------------------------
+facultad: Ingenieria en sistemas
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de nacimiento: 15/02/2003
+Direccion de Residencia: Guatemala, Guatemala
+Telefono celular: 48007989
+DPI(CUI): 2367 47685 4075
+Correo electronico: rodpi1923@gmail.com
+Fecha de ingreso de informacion: 24/03/2023
+Numero de carnet: 9959-23-4799
+Correo Institucional: arodriguezp49@miumg.edu.gt
+----------------------------------------------------------------------------------------------------------
+-------------------------------------------DATOS DEL ESTUDIANTE-------------------------------------------
+facultad: Ingenieria en sistemas
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de nacimiento: 15/01/2004
+Direccion de Residencia: Guatemala, Guatemala
+Telefono celular: 48007989
+DPI(CUI): 3445 23950 2309
+Correo electronico: rodpi1923@gmail.com
+Fecha de ingreso de informacion: 27/04/2024
+Numero de carnet: 9959-23-9651
+Correo Institucional: arodriguezp62@miumg.edu.gt
+----------------------------------------------------------------------------------------------------------
+-------------------------------------------DATOS DEL ESTUDIANTE-------------------------------------------
+facultad: Ingenieria en sistemas
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de nacimiento: 15/01/2004
+Direccion de Residencia: Guatemala
+Telefono celular: 25367234
+DPI(CUI): 1245 23643 64306
+Correo electronico: rodpi1923@gmail.com
+Fecha de ingreso de informacion: 10/02/2024
+Numero de carnet: 9959-23-5922
+Correo Institucional: arodriguezp26@miumg.edu.gt
+----------------------------------------------------------------------------------------------------------
+-------------------------------------------DATOS DEL ESTUDIANTE-------------------------------------------
+facultad: Ingenieria en sistemas
+Plan: Diario
+Jornada: Matutino
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de nacimiento: 15/03/3034
+Direccion de Residencia: Guatemala, Guatemala
+Telefono celular: 35643856
+DPI(CUI): 2353 45374 6547
+Correo electronico: rodpi1923352f
+Fecha de ingreso de informacion: 15/20/235
+Numero de carnet: 9959-23-9031
+Correo Institucional: arodriguezp82@miumg.edu.gt
+----------------------------------------------------------------------------------------------------------

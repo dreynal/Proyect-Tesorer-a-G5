@@ -1,0 +1,28 @@
+-------------------------------------------COMPROBANTE DE PAGO-------------------------------------------
+Numero de boleta: No.908263
+Numero de carnet: 9959-23-4799
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de pago: 24/03/2023
+Monto de la matricula: Q
+---------------------------------------------------------------------------------------------------------
+-------------------------------------------COMPROBANTE DE PAGO-------------------------------------------
+Numero de boleta: No.645114
+Numero de carnet: 9959-23-9651
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de pago: 27/04/2024
+Monto de la matricula: Q
+---------------------------------------------------------------------------------------------------------
+-------------------------------------------COMPROBANTE DE PAGO-------------------------------------------
+Numero de boleta: No.688795
+Numero de carnet: 9959-23-5922
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de pago: 10/02/2024
+Monto de la matricula: Q10.00
+---------------------------------------------------------------------------------------------------------
+-------------------------------------------COMPROBANTE DE PAGO-------------------------------------------
+Numero de boleta: No.897755
+Numero de carnet: 9959-23-9031
+Nombre completo: Anderson Cristofer Rodriguez Pivaral
+Fecha de pago: 15/20/235
+Monto de la matricula: Q10.00
+---------------------------------------------------------------------------------------------------------
