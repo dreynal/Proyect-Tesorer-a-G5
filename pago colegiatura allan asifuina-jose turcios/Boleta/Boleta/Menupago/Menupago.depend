@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1714340252 source:c:\users\joset\onedrive\escritorio\nueva carpeta\menupago\main.cpp
+	"Boleta.h"
+	<iostream>
+
+1714333883 c:\users\joset\onedrive\escritorio\nueva carpeta\menupago\include\colegiatura.h
+	<string>
+
+1714333883 source:c:\users\joset\onedrive\escritorio\nueva carpeta\menupago\src\colegiatura.cpp
+	"Colegiatura.h"
+	<iostream>
+
+1714341957 c:\users\joset\onedrive\escritorio\nueva carpeta\menupago\include\boleta.h
+	<string>
+
+1714341344 source:c:\users\joset\onedrive\escritorio\nueva carpeta\menupago\src\boleta.cpp
+	"Boleta.h"
+	<iostream>
+	<fstream>
+
+1714343016 source:c:\users\hp\downloads\telegram desktop\boleta\boleta\menupago\main.cpp
+	"Boleta.h"
+	<iostream>
+
+1714354875 c:\users\hp\downloads\telegram desktop\boleta\boleta\menupago\include\boleta.h
+	<string>
+
+1714341346 source:c:\users\hp\downloads\telegram desktop\boleta\boleta\menupago\src\boleta.cpp
+	"Boleta.h"
+	<iostream>
+	<fstream>
+

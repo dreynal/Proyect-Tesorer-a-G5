@@ -1,0 +1,3 @@
+Nombre: maria
+Matrícula: 34505
+Monto: Q.1000
