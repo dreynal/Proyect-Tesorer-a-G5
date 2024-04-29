@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1714093606 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\src\sueldos.cpp
+	"sueldos.h"
+
+1714093605 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\include\sueldos.h
+
+1714187990 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\src\colegiatura.cpp
+	"colegiatura.h"
+	<iostream>
+
+1714108362 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\include\colegiatura.h
+	<iostream>
+
+1714199614 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\main.cpp
+	<iostream>
+	<fstream>
+	"colegiatura.h"
+	"matricula.h"
+	"sueldos.h"
+	<iostream>
+	"menuTesoreria.h"
+
+1714187550 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\include\matricula.h
+	<iostream>
+
+1714233935 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\src\matricula.cpp
+	"matricula.h"
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1714199489 c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\include\menutesoreria.h
+	<iostream>
+
+1714199640 source:c:\users\admi\onedrive\documentos\carpeta para git\didactica2k24\proyectos\menu tesoreria\tesoreria\src\menutesoreria.cpp
+	"menuTesoreria.h"
+	<iostream>
+	<fstream>
+	"colegiatura.h"
+	"matricula.h"
+	"sueldos.h"
+
